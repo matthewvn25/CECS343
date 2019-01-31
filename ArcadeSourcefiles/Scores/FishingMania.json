@@ -1,0 +1,19 @@
+{
+    "scores": [
+        {
+            "name": "Cool",
+            "score": 560,
+            "increasing": false
+        },
+        {
+            "name": "cool",
+            "score": 200,
+            "increasing": false
+        },
+        {
+            "name": "------",
+            "score": 0,
+            "increasing": false
+        }
+    ]
+}

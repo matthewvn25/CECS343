@@ -1,0 +1,14 @@
+{
+    "scores": [
+        {
+            "name": "Test",
+            "score": 172,
+            "increasing": false
+        },
+        {
+            "name": "------",
+            "score": 0,
+            "increasing": false
+        }
+    ]
+}
